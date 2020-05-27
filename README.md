@@ -4,7 +4,7 @@ Please follow these instructions when you start coding on this project for first
 ### 1) For GIT Clone
 
 ```sh
-git clone http://10.10.1.3:2010/sipl/mental-fitness-mobile.git
+git clone https://github.com/PrafulOjha/ReactNavigationV5.git
 ```
 
 ### 2) Package Install
@@ -39,18 +39,18 @@ react-native bundle --entry-file ./index.js --platform ios --bundle-output ios/m
 ```
 
 
-Repository Content: 
-# 1) React-Native Version 62.2
+# Repository Content: 
+#### 1) React-Native Version 62.2
 
-# 2) React-Navigation Version 5
+#### 2) React-Navigation Version 5
 
-# 3) New Authentication Flow
+#### 3) New Authentication Flow
 
-# 4) Implimentation of Stack, Botton-Tab and Drawer Navigation
+#### 4) Implimentation of Stack, Botton-Tab and Drawer Navigation
 
-Upcoming Content: 
-# 1) Firebase Authentication And Social Login
+# Upcoming Content: 
+#### 1) Firebase Authentication And Social Login
 
-# 2) Folder Structure
+#### 2) Folder Structure
 
-# 3) Push Notification And Local Notification
+#### 3) Push Notification And Local Notification
